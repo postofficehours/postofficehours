@@ -10,4 +10,5 @@ The site provides a simple and fast way to:
 
 PostOfficeHours.co.uk is built to be easy to use on both mobile and desktop, giving travelers and residents up-to-date information about post office hours across the UK.
 
-Visit the website: https://postofficehours.co.uk
+Visit the website: https://postofficehours.co.uk  
+Project page: https://postofficehours.github.io/
